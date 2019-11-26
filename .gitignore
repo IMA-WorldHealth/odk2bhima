@@ -1,0 +1,26 @@
+# ignore editor-specific working files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+.idea/*
+*~
+
+# ignore lock file until it works with npm < version 5
+package-lock.json
+
+# ignore npm/node modules
+node_modules/
+npm-debug.log
+
+# ignore visual studio files
+.vscode/*
+nbproject/*
+
+# ignore netbeans files
+nbproject/
+
+# ignore istanbul generated folders
+.nyc_output/
+
+
+yarn-error.log
+*.log

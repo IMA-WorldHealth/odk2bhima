@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "app": "node app.js"
+  },
+  "dependencies": {
+    "cross-env": "^6.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "q": "^1.5.1",
+    "use-strict": "^1.0.1",
+    "uuid": "^3.3.3",
+    "uuid-parse": "^1.1.0"
+  }
+}
